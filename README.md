@@ -2,6 +2,43 @@
 
 There are several design patterns. This repo is to show what are they and what are the example implementations in Typescript.
 
+**OOP**
+
+**Behavioural Patterns**
+
+- [x] Abstract Factory
+- [ ] Builder
+- [x] Factory Method
+- [ ] Object Pool
+- [ ] Prototype
+- [ ] Singleton
+
+**Creational Patterns**
+
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Private Class Data
+- [ ] Proxy
+
+**Structural Patterns**
+
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Null Object
+- [x] Observer
+- [ ] State
+- [x] Strategy
+- [ ] Template Method
+- [ ] Visitor
+
 ## References 📗
 
 - [Design Patterns - SourceMaking.com](https://sourcemaking.com/design_patterns)
