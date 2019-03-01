@@ -7,7 +7,7 @@ There are several design patterns. This repo is to show what are they and what a
 **Behavioural Patterns**
 
 - [x] Abstract Factory
-- [ ] Builder
+- [x] Builder
 - [x] Factory Method
 - [ ] Object Pool
 - [ ] Prototype
@@ -17,7 +17,7 @@ There are several design patterns. This repo is to show what are they and what a
 
 - [ ] Adapter
 - [ ] Bridge
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [ ] Facade
 - [ ] Flyweight
