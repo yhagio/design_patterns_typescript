@@ -13,3 +13,5 @@
 
 - https://sourcemaking.com/design_patterns/visitor
 - https://www.youtube.com/watch?v=pL4mOUDi54o
+
+- http://www.talkinghightech.com/en/typescript-visitor-pattern/

@@ -18,7 +18,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [x] Adapter
 - [x] Bridge
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [x] Facade
 - [ ] Flyweight
 - [ ] Private Class Data
