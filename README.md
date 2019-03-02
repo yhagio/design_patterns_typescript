@@ -16,7 +16,7 @@ There are several design patterns. This repo is to show what are they and what a
 **Creational Patterns**
 
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [x] Composite
 - [ ] Decorator
 - [ ] Facade
