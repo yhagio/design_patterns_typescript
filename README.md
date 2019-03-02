@@ -36,7 +36,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [x] Observer
 - [ ] State
 - [x] Strategy
-- [ ] Template Method
+- [x] Template Method
 - [x] Visitor
 
 ## References 📗
