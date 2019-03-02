@@ -1,4 +1,4 @@
-import ICommand from '../ChainOfResponsibility/command';
+import ICommand from './command';
 import IElectronicDevice from './electronicDevice';
 
 export default class TurnTVUp implements ICommand {

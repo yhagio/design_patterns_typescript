@@ -1,4 +1,4 @@
-import ICommand from '../ChainOfResponsibility/command';
+import ICommand from './command';
 
 // This is known as the invoker
 // It has a method press() that when executed
