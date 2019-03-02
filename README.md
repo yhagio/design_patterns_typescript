@@ -27,7 +27,7 @@ There are several design patterns. This repo is to show what are they and what a
 **Structural Patterns**
 
 - [ ] Chain of Responsibility
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
