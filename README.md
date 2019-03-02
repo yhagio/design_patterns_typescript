@@ -19,7 +19,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [x] Bridge
 - [x] Composite
 - [ ] Decorator
-- [ ] Facade
+- [x] Facade
 - [ ] Flyweight
 - [ ] Private Class Data
 - [ ] Proxy
