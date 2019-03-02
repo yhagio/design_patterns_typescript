@@ -37,7 +37,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [ ] State
 - [x] Strategy
 - [ ] Template Method
-- [ ] Visitor
+- [x] Visitor
 
 ## References 📗
 
