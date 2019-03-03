@@ -30,7 +30,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [x] Command
 - [ ] Interpreter
 - [ ] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [ ] Null Object
 - [x] Observer
