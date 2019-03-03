@@ -1,6 +1,6 @@
 export default interface ATMState {
-  insertCard();
-  ejectCard();
-  insertPin(pinEntered: number);
-  requestCash(cashToWithdraw: number);
+  insertCard(): string;
+  ejectCard(): string;
+  insertPin(pinEntered: number): string;
+  requestCash(cashToWithdraw: number): string;
 }
