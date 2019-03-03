@@ -34,7 +34,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [ ] Memento
 - [ ] Null Object
 - [x] Observer
-- [ ] State
+- [x] State
 - [x] Strategy
 - [x] Template Method
 - [x] Visitor
