@@ -7,3 +7,6 @@
 - Promote undo or rollback to full object status.
 
 ### Ref
+
+- https://sourcemaking.com/design_patterns/memento
+- https://www.youtube.com/watch?v=jOnxYT8Iaoo

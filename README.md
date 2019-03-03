@@ -4,7 +4,7 @@ There are several design patterns. This repo is to show what are they and what a
 
 **OOP**
 
-**Behavioural Patterns**
+**Creational Patterns**
 
 - [x] Abstract Factory
 - [x] Builder
@@ -13,7 +13,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [ ] Prototype
 - [ ] Singleton
 
-**Creational Patterns**
+**Structural Patterns**
 
 - [x] Adapter
 - [x] Bridge
@@ -24,7 +24,7 @@ There are several design patterns. This repo is to show what are they and what a
 - [ ] Private Class Data
 - [ ] Proxy
 
-**Structural Patterns**
+**Behavioural Patterns**
 
 - [x] Chain of Responsibility
 - [x] Command
